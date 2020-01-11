@@ -8,7 +8,7 @@
 			<th>Type</th>
             <th>Attribute name</th>
             <th>Unit</th>
-            <th>Values</th>
+            
             <th>Method</th>
             <th>Mode</th>
             <th>Edit</th>
